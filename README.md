@@ -1,5 +1,9 @@
 # Secure Remote Access VPN Lab
 
+![Status](https://img.shields.io/badge/Status-Completed-green)
+![VPN](https://img.shields.io/badge/VPN-WireGuard-blue)
+![Router](https://img.shields.io/badge/Hardware-GL.iNet-orange)
+
 **WireGuard Site-to-Site Routing with GL.iNet Routers**
 
 ## Skills Demonstrated
@@ -155,7 +159,7 @@ Results:
 
 This real-world test validated the overall design and demonstrated successful encrypted routing across geographically separated networks.
 
-## Network Diagram
+## Network Topology
 
 ```text
 Internet
@@ -189,11 +193,13 @@ Key outcomes:
 
 * Established encrypted remote connectivity between geographically separated networks.
 * Successfully routed remote client traffic through the home network using a WireGuard tunnel and Dynamic DNS.
-* Maintained reliable connectivity using Dynamic DNS
-* Reduced public exposure of internal resources
-* Improved hands-on understanding of VPNs, NAT, routing, and firewall behavior
-* Gained experience validating network activity through security monitoring tools
+* Maintained reliable connectivity using Dynamic DNS.
+* Reduced public exposure of internal resources.
+* Improved hands-on understanding of VPNs, NAT, routing, and firewall behavior.
+* Gained experience validating network activity through security monitoring tools.
 * Successfully validated the solution during international travel, demonstrating reliable remote connectivity across geographically separated networks.
+
+This project demonstrates practical experience with VPN deployment, NAT traversal, Dynamic DNS, encrypted tunneling, router administration, and remote access troubleshooting in a real-world environment.
 
 ## Skills Demonstrated
 
